@@ -1,2 +1,7 @@
 test file
+hi hello
+<<<<<<< HEAD
 new linw added
+=======
+test file
+>>>>>>> origin/main
